@@ -1,2 +1,2 @@
 # 23.-Ria-Aprinawati
-Judul Projek: Sistem Inventory
+Sistem Manajemen Gudang
